@@ -1,0 +1,72 @@
+{
+    "name": "Locaid",
+    "description": "LocationSmart provides Cloud Location Services with a trusted enterprise mobility platform to optimize efficiencies, track assets and verify transactions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10198-locaid.jpg",
+    "tags": [
+        "api provider",
+        "cellular",
+        "have api",
+        "locations",
+        "networks",
+        "wifi"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/locaid\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Locaid",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10198-locaid.jpg",
+            "humanURL": "http:\/\/www.loc-aid.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/locaid-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.loc-aid.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.loc-aid.com\/blog\/rss.php"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/locationsmart"
+        },
+        {
+            "type": "Email",
+            "url": "info@locationsmart.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@locationsmart.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@locationsmart.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/locaid"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/locationsmart"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.loc-aid.com\/"
+        }
+    ]
+}
